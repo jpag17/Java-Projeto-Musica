@@ -7,7 +7,7 @@ import br.com.alura.minhasmusicas.modelos.Podcast;
 public class Principal {
     public static void main(String[] args) {
         Musica minhaMusica = new Musica();
-        minhaMusica.setTitulo("Set fim de ano 3");
+        minhaMusica.setTitulo("Set fim de ano 1");
         minhaMusica.setCantor("DJ Blakes");
 
         for (int  i= 0;  i < 2500; i++) {
